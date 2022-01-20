@@ -1,0 +1,26 @@
+﻿[
+  {
+    "guilds": [],
+    "blank_image": [
+      {
+        "url": "res/base.jpg"
+      }
+    ],
+    "render_set": {
+      "text_color_r": 255,
+      "text_color_g": 255,
+      "text_color_b": 255,
+      "render_x": 479.83,
+      "render_y": 372.42,
+      "render_angle": 0,
+      "render_orig": "center",
+      "font_size": 73.66,
+      "font": "res/Gilroy-Bold.ttf"
+    },
+    "provider": {
+      "url": "https://cdn.rage.mp/master/",
+      "selector": "$[''].players",
+      "update_interval": 1
+    }
+  }
+]
